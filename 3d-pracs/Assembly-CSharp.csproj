@@ -62,6 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ClickToAnim.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyChase.cs" />
+    <Compile Include="Assets\Navigation Scripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalMover.cs" />
+    <Compile Include="Assets\Navigation Scripts\GoalSetting.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
